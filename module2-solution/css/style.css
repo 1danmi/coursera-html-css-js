@@ -1,0 +1,55 @@
+body{
+    font-family: Segoe UI, Arial sans-serif;
+}
+
+.page-title {
+    text-align: center;
+    font-size: 1.75em;
+    margin: 32px;
+}
+
+.container{
+    position: relative;
+    padding: 15px;
+}
+
+.header {
+    position: absolute;
+    background: blue;
+    right: 0;
+    top: 0;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 8px;
+    color: white;
+    font-size: 1.25em;
+    /*font-family: Arial sans-serif;*/
+
+}
+.description {
+    padding: 48px 16px 16px 16px;
+}
+
+.box{
+    position: relative;
+    border: 1px solid black;
+    background: #EEEEEE;
+
+}
+
+.description {
+    position: relative;
+}
+
+#chicken {
+    background: #4CAF50;
+}
+
+#beef {
+    background: #2196F3;
+
+}
+
+#sushi {
+    background: #FFC107;
+}
