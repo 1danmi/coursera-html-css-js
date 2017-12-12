@@ -1,0 +1,59 @@
+body{
+    background: #252525;
+    font-size: 22px;
+}
+
+#lorem-ipsum{
+    color: #fafafa;
+    margin-top: 40px;
+    font-family: Segoe UI, Arial sans-serif;
+    font-weight: 300;
+}
+
+.navbar-header{
+    height: 100px;
+}
+
+#lorem-ipsum p{
+    line-height: 125%;
+}
+
+#header-nav{
+    background: #f44336;
+    border: 0;
+    border-radius: 0;
+
+}
+
+.navbar-brand h1{
+    color: #252525;
+    font-size: 50px;
+    margin-top: 5px;
+    font-weight: 400;
+    font-family: Segoe UI, Arial sans-serif;
+    text-shadow: 2px 1px 1px #61616180 ;
+}
+
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+#heading {
+    color: #fafafa;
+    font-family: Segoe UI, Arial sans-serif;
+    font-weight: 300;
+    font-size: 44px;
+    margin-top: 30px;
+}
+
+#nav-list{
+    margin-top: 10px;
+}
+
+#nav-list div{
+    color: #252525;
+    text-align: center;
+    margin-top: 5px;
+}
+
+
